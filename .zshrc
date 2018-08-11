@@ -102,3 +102,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias reload="source ~/.zshrc"
+alias edit="vi ~/.zshrc"
+export DOCKER_HOST=tcp://0.0.0.0:2375
