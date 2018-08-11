@@ -1,0 +1,7 @@
+[user]
+	email = edwardsjm01@gmail.com
+	name = Matt Edwards
+[core]
+	excludesfile = ~/.gitignore_global
+[github]
+	username = "mountain01"
