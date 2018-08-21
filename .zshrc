@@ -65,6 +65,7 @@ export ZSH_CUSTOM="$ZSH/custom"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  ng
   docker
   git-extras
   zsh-autosuggestions

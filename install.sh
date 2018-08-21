@@ -6,3 +6,4 @@ ln -sfv "$DOTFILES_DIR/.zshrc" ~
 ln -sfv "$DOTFILES_DIR/.gitconfig" ~
 ln -sfv "$DOTFILES_DIR/.gitignore_global" ~
 ln -sfv "$DOTFILES_DIR/.spaceship-custom" ~
+ln -sfv "$DOTFILES_DIR/.angular-config.json" ~
